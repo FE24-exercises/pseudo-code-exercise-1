@@ -6,7 +6,7 @@
         SET variable sum till INPUT från användaren                    
         SET variable friends till INPUT från användaren               
         SET variable tip till 0.10              
-        SET variable nota till uträkning av sum gånger 0.10 och dela med friends          
+        SET variable nota till (sum * 1.10) / friends           
         
         Print Varje person ska betala variabel nota kr
     END function
