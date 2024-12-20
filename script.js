@@ -34,7 +34,7 @@ function isOneLetterApart(wordOne, wordTwo)
 
     // Här behöver du skriva koden för din funktion
     IF wordOne och wordTwo har olika många bokstäver
-        PRINT Båda orden måste innehålla lika många bokstäver
+        PRINT Orden skiljer sig med mer än ett tecken
     END IF
 
     FOR varje tecken i startOrd, räkna med index `i`
